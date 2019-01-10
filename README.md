@@ -1,5 +1,3 @@
-# sudiptasamanta
-Appendix
 #include <SoftwareSerial.h>
 #include <LiquidCrystal.h>
 LiquidCrystallcd (12, 11, 5, 4, 3, 2);
